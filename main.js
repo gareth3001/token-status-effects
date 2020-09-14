@@ -3,5 +3,5 @@
 * @type {Array}
 */
 CONFIG.statusEffects = [
-  "core/icons/svg/skull.svg"
+  "icons/svg/skull.svg"
 ];

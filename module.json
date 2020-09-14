@@ -2,7 +2,7 @@
   "name": "token-status-effects",
   "title": "Token Status Effects",
   "description": "This module overrides the effects in the Token HUD",
-  "version": "0.1",
+  "version": "0.2",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.6",
   "author": "gareth3001",
